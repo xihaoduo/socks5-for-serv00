@@ -6,13 +6,13 @@
 ### nohup模式
 - 一键安装 **新手小白用这个！**
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/cmliu/socks5-for-serv00/main/install-socks5.sh)
+bash <(curl -s https://raw.githubusercontent.com/xihaoduo/socks5-for-serv00/main/install-socks5.sh)
 ```
 ----
 ### ~pm2模式~
 - ~一键安装~
 
-~`bash <(curl -s https://raw.githubusercontent.com/cmliu/socks5-for-serv00/pm2/install-socks5.sh)`~
+~`bash <(curl -s https://raw.githubusercontent.com/xihaoduo/socks5-for-serv00/pm2/install-socks5.sh)`~
 
 
 - 一键卸载pm2
